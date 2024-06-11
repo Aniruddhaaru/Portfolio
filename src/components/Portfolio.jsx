@@ -14,7 +14,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: todo,
-      demo: "https://example.com/demo2",
+      demo: "https://reacttodolistsite.netlify.app",
       code: "https://github.com/Aniruddhaaru/React-todolist",
     },
     {
@@ -47,9 +47,6 @@ const Portfolio = () => {
                 className="rounded-md h-60 w-full object-cover duration-200 hover:scale-105 cursor-pointer"
               />
               <div className="flex items-center justify-center">
-                <a href={demo} target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 text-center bg-gray-800 rounded-md">
-                  Demo
-                </a>
                 <a href={code} target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 text-center bg-gray-800 rounded-md">
                   Code
                 </a>
