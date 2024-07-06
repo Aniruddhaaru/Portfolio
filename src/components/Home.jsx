@@ -12,7 +12,7 @@ const Home = () => {
                     </h2>
 
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I have 2 years and 6 months of experience. Currently, I love to work on web applications using technologies like React, Tailwind, Next JS, and GraphQL.
+                        I have 6 months of experience. Currently, I love to work on web applications using technologies like React, Tailwind, Next JS, and GraphQL.
                     </p>
                     <div>
                         <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
